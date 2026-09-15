@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11925.98 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VicFoodRescue.Shared", "VicFoodRescue.Shared\VicFoodRescue.Shared.csproj", "{F00CF822-086C-4BFF-9112-B3E0A13F021E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VicFoodRescue.PartnerPortal", "VicFoodRescue.PartnerPortal\VicFoodRescue.PartnerPortal.csproj", "{CCE7D809-4A31-47CD-BB58-5FD869F17ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VicFoodRescue.AidPortal", "VicFoodRescue.AidPortal\VicFoodRescue.AidPortal.csproj", "{F037A11C-5366-4A06-9458-3C346315CD6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00CF822-086C-4BFF-9112-B3E0A13F021E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00CF822-086C-4BFF-9112-B3E0A13F021E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00CF822-086C-4BFF-9112-B3E0A13F021E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00CF822-086C-4BFF-9112-B3E0A13F021E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE7D809-4A31-47CD-BB58-5FD869F17ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE7D809-4A31-47CD-BB58-5FD869F17ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE7D809-4A31-47CD-BB58-5FD869F17ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE7D809-4A31-47CD-BB58-5FD869F17ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F037A11C-5366-4A06-9458-3C346315CD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F037A11C-5366-4A06-9458-3C346315CD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F037A11C-5366-4A06-9458-3C346315CD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F037A11C-5366-4A06-9458-3C346315CD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

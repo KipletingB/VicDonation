@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VicFoodRescue.PartnerPortal\\VicFoodRescue.PartnerPortal.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VicFoodRescue.AidPortal\\VicFoodRescue.AidPortal.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
